@@ -1,4 +1,4 @@
-# Chess-3-using-PyOpenGL-pygame
+# Spinning-3D-Chess-Table-PyOpenGL-pygame
 
 If you want to try this one:
 1. Install VS Code
